@@ -3,13 +3,19 @@
 
 ### I'm a B.Tech Student   <img src="https://i.pinimg.com/originals/0c/ba/f2/0cbaf2966dbc9b332b06db462053c487.gif" height=15% width=40% align="right">
 
-* Future software engineer 
-* Deep Learning in software engineering 
+* Future software engineer
+  
+* Deep Learning in software engineering
+  
 * Basic Coder
+  
 * expert in debugging
+  
 
-🌱 I'm currently learning: B.Tech IT         
+🌱 I'm currently learning: B.Tech IT 
+
 📬 How to reach me: [smohamedriyaz07@gmail.com](mailto:smohamedriyaz07@gmail.com)<br>
+
 💪 This is where I write, code and solve problems.<br><br>
  As a IT Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
